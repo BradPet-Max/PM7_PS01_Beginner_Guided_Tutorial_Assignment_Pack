@@ -1,0 +1,6 @@
+service_type,count,mean,median,std
+Waste,66,3.44,3.1,1.95
+Sanitation,55,4.82,3.6,3.61
+Electricity,72,7.56,5.85,6.79
+Roads,67,11.21,8.3,9.58
+Water,100,15.64,12.05,14.29

@@ -1,0 +1,401 @@
+request_id,opened_on,closed_on,service_type,region,priority,channel,status,resolution_days,satisfaction_rating
+SR00001,2026-01-12 14:55,2026-01-19 12:31,Roads,North,High,Web Portal,Resolved,6.9,5
+SR00002,2026-05-26 12:28,2026-06-03 17:16,Water,West,Low,Call Centre,Resolved,8.2,3
+SR00003,2026-02-20 12:01,2026-02-27 04:49,Water,CBD,High,Web Portal,Resolved,6.7,5
+SR00004,2026-02-07 15:18,,Sanitation,South,Medium,Walk-in,Open,,
+SR00005,2026-03-04 14:30,2026-03-09 04:54,Sanitation,CBD,Medium,Walk-in,Resolved,4.6,3
+SR00006,2026-03-22 09:20,2026-03-27 18:56,Water,West,High,Walk-in,Resolved,5.4,5
+SR00007,2026-04-19 13:23,2026-04-20 06:11,Waste,South,High,Web Portal,Resolved,0.7,5
+SR00008,2026-05-01 15:05,2026-05-30 10:17,Water,West,Low,Web Portal,Resolved,28.8,1
+SR00009,2026-04-29 14:43,2026-05-14 09:55,Water,North,Medium,Mobile App,Resolved,14.8,2
+SR00010,2026-02-23 09:26,2026-03-05 14:14,Electricity,West,High,Walk-in,Resolved,10.2,4
+SR00011,2026-01-16 10:52,2026-01-28 22:52,Sanitation,East,High,Call Centre,Resolved,12.5,2
+SR00012,2026-05-27 17:01,2026-05-31 00:13,Sanitation,East,Medium,Web Portal,Resolved,3.3,5
+SR00013,2026-04-25 07:55,2026-04-30 15:07,Sanitation,West,High,Call Centre,Resolved,5.3,4
+SR00014,2026-04-04 14:13,2026-04-13 07:01,Electricity,South,Medium,Walk-in,Resolved,8.7,2
+SR00015,2026-04-18 16:25,2026-04-19 11:37,Electricity,South,Medium,Walk-in,Resolved,0.8,5
+SR00016,2026-05-20 10:13,2026-05-27 12:37,Roads,East,Medium,Call Centre,Resolved,7.1,4
+SR00017,2026-03-30 14:13,2026-04-01 02:13,Water,West,Medium,Walk-in,Resolved,1.5,4
+SR00018,2026-04-04 11:51,2026-04-14 16:39,Water,North,Medium,Call Centre,Resolved,10.2,3
+SR00019,2026-04-02 07:01,,Roads,East,Medium,Mobile App,Open,,
+SR00020,2026-04-02 11:04,2026-04-05 01:28,Water,North,Medium,Web Portal,Resolved,2.6,5
+SR00021,2026-02-23 10:38,2026-03-09 01:02,Sanitation,South,Low,Call Centre,Resolved,13.6,2
+SR00022,2026-02-10 15:41,2026-02-12 22:53,Waste,East,Low,Web Portal,Resolved,2.3,5
+SR00023,2026-04-20 14:39,2026-04-25 02:39,Roads,CBD,Medium,Mobile App,Resolved,4.5,3
+SR00024,2026-01-22 13:12,2026-01-26 01:12,Waste,East,Medium,Walk-in,Resolved,3.5,5
+SR00025,2026-02-18 15:22,2026-02-19 00:58,Waste,CBD,Medium,Mobile App,Resolved,0.4,5
+SR00026,2026-05-19 16:14,2026-05-22 01:50,Electricity,West,High,Mobile App,Resolved,2.4,5
+SR00027,2026-06-15 11:10,2026-06-19 13:34,Electricity,South,Low,Walk-in,Resolved,4.1,3
+SR00028,2026-02-23 07:10,2026-03-16 07:10,Water,South,Low,Web Portal,Resolved,21.0,3
+SR00029,2026-06-18 08:51,2026-06-29 06:27,Roads,East,Low,Walk-in,Resolved,10.9,3
+SR00030,2026-04-28 13:52,2026-05-03 06:40,Electricity,South,Low,Walk-in,Resolved,4.7,3
+SR00031,2026-05-24 12:35,2026-06-13 22:11,Electricity,East,Medium,Mobile App,Resolved,20.4,2
+SR00032,2026-06-23 16:20,2026-06-25 11:32,Sanitation,CBD,Medium,Mobile App,Resolved,1.8,4
+SR00033,2026-02-16 07:26,2026-02-18 07:26,Waste,South,Low,Web Portal,Resolved,2.0,5
+SR00034,2026-04-21 14:59,2026-04-28 00:35,Sanitation,South,Medium,Walk-in,Resolved,6.4,4
+SR00035,2026-02-11 12:42,2026-02-17 00:42,Roads,West,Low,Web Portal,Resolved,5.5,4
+SR00036,2026-01-21 09:44,2026-01-28 04:56,Sanitation,CBD,Low,Web Portal,Resolved,6.8,4
+SR00037,2026-05-06 09:48,,Electricity,South,Medium,Walk-in,Open,,
+SR00038,2026-06-03 11:19,2026-06-05 01:43,Waste,East,Medium,Call Centre,Resolved,1.6,5
+SR00039,2026-06-23 09:37,2026-09-04 12:01,Water,South,Low,Call Centre,Resolved,73.1,1
+SR00040,2026-03-08 15:37,,Waste,CBD,Medium,Call Centre,Open,,
+SR00041,2026-01-09 07:06,2026-01-14 11:54,Sanitation,South,Low,Web Portal,Resolved,5.2,5
+SR00042,2026-06-23 14:19,2026-07-06 04:43,Water,North,Medium,Web Portal,Resolved,12.6,2
+SR00043,2026-06-15 10:37,2026-06-22 15:25,Electricity,North,Medium,Mobile App,Resolved,7.2,4
+SR00044,2026-03-29 17:28,,Water,West,Low,Web Portal,Open,,
+SR00045,2026-01-16 11:53,2026-01-18 19:05,Roads,North,Low,Mobile App,Resolved,2.3,5
+SR00046,2026-03-14 16:01,2026-03-24 23:13,Roads,South,Medium,Call Centre,Resolved,10.3,4
+SR00047,2026-04-22 08:25,,Waste,East,Medium,Call Centre,Open,,
+SR00048,2026-04-07 14:43,2026-04-13 00:19,Electricity,East,Low,Call Centre,Resolved,5.4,3
+SR00049,2026-02-16 14:40,2026-02-23 07:28,Electricity,South,Medium,Web Portal,Resolved,6.7,3
+SR00050,2026-01-08 14:55,2026-01-29 14:55,Water,West,Low,Web Portal,Resolved,21.0,3
+SR00051,2026-04-07 09:15,2026-04-10 06:51,Electricity,South,High,Walk-in,Resolved,2.9,5
+SR00052,2026-05-16 07:10,,Roads,East,Low,Web Portal,Open,,
+SR00053,2026-02-08 09:50,2026-02-10 21:50,Waste,West,Low,Mobile App,Resolved,2.5,5
+SR00054,2026-01-26 09:53,2026-02-02 14:41,Electricity,East,Low,Web Portal,Resolved,7.2,5
+SR00055,2026-01-18 10:14,2026-01-19 22:14,Sanitation,East,High,Walk-in,Resolved,1.5,5
+SR00056,2026-05-21 12:09,2026-05-28 14:33,Waste,South,Low,Web Portal,Resolved,7.1,5
+SR00057,2026-04-15 16:52,2026-05-12 19:16,Water,South,Medium,Mobile App,Resolved,27.1,3
+SR00058,2026-06-12 16:51,2026-06-13 19:15,Electricity,South,High,Mobile App,Resolved,1.1,5
+SR00059,2026-06-19 13:53,2026-06-26 01:53,Water,East,High,Call Centre,Resolved,6.5,5
+SR00060,2026-03-01 11:19,2026-03-09 11:19,Roads,South,Low,Walk-in,Resolved,8.0,2
+SR00061,2026-01-30 07:57,2026-01-31 10:21,Roads,South,Medium,Call Centre,Resolved,1.1,4
+SR00062,2026-05-01 09:20,2026-05-03 18:56,Roads,East,Medium,Mobile App,Resolved,2.4,5
+SR00063,2026-04-21 08:15,,Roads,South,Medium,Web Portal,Open,,
+SR00064,2026-01-21 15:23,,Waste,North,Low,Call Centre,Open,,
+SR00065,2026-02-09 09:25,,Electricity,West,Low,Walk-in,Open,,
+SR00066,2026-05-03 09:12,2026-05-11 23:36,Sanitation,South,Low,Web Portal,Resolved,8.6,2
+SR00067,2026-06-01 07:37,2026-06-05 12:25,Electricity,West,Low,Call Centre,Resolved,4.2,5
+SR00068,2026-01-08 13:16,2026-01-12 15:40,Waste,East,Medium,Web Portal,Resolved,4.1,5
+SR00069,2026-02-28 12:10,2026-04-11 02:34,Water,South,Low,Mobile App,Resolved,41.6,1
+SR00070,2026-05-10 16:25,2026-05-13 06:49,Sanitation,East,Low,Mobile App,Resolved,2.6,4
+SR00071,2026-05-15 15:44,2026-05-29 06:08,Roads,CBD,Low,Call Centre,Resolved,13.6,2
+SR00072,2026-05-15 17:13,2026-05-27 07:37,Sanitation,South,Low,Walk-in,Resolved,11.6,3
+SR00073,2026-04-11 17:10,2026-05-19 21:58,Water,West,Low,Call Centre,Resolved,38.2,1
+SR00074,2026-03-05 13:05,2026-03-13 20:17,Roads,South,High,Mobile App,Resolved,8.3,4
+SR00075,2026-02-23 10:30,2026-02-27 12:54,Waste,South,Medium,Call Centre,Resolved,4.1,5
+SR00076,2026-04-09 12:48,2026-04-14 10:24,Water,East,Low,Mobile App,Resolved,4.9,3
+SR00077,2026-04-11 15:55,2026-05-03 18:19,Water,East,Medium,Mobile App,Resolved,22.1,1
+SR00078,2026-04-12 15:27,2026-05-10 03:27,Water,South,Low,Mobile App,Resolved,27.5,1
+SR00079,2026-03-17 07:49,2026-04-01 05:25,Roads,South,Low,Mobile App,Resolved,14.9,1
+SR00080,2026-01-20 16:09,2026-01-22 18:33,Waste,North,High,Web Portal,Resolved,2.1,5
+SR00081,2026-05-17 17:33,2026-05-19 12:45,Sanitation,North,High,Web Portal,Resolved,1.8,4
+SR00082,2026-05-16 16:50,2026-05-17 02:26,Water,North,Medium,Web Portal,Resolved,0.4,4
+SR00083,2026-03-30 17:06,2026-04-06 17:06,Roads,South,Low,Mobile App,Resolved,7.0,5
+SR00084,2026-01-22 09:59,2026-01-23 09:59,Sanitation,West,Low,Web Portal,Resolved,1.0,5
+SR00085,2026-04-27 09:22,2026-05-06 21:22,Water,North,Low,Call Centre,Resolved,9.5,3
+SR00086,2026-01-08 11:36,2026-01-13 23:36,Roads,South,Low,Call Centre,Resolved,5.5,3
+SR00087,2026-03-15 12:11,2026-04-18 21:47,Roads,North,Low,Mobile App,Resolved,34.4,3
+SR00088,2026-01-17 08:40,2026-01-22 06:16,Electricity,South,Low,Call Centre,Resolved,4.9,3
+SR00089,2026-01-14 09:40,2026-01-17 07:16,Electricity,West,Medium,Walk-in,Resolved,2.9,5
+SR00090,2026-05-20 10:29,2026-06-04 17:41,Sanitation,West,Low,Mobile App,Resolved,15.3,3
+SR00091,2026-03-24 15:56,2026-03-25 08:44,Waste,North,Low,Mobile App,Resolved,0.7,5
+SR00092,2026-05-27 13:44,2026-06-17 06:32,Water,North,High,Mobile App,Resolved,20.7,1
+SR00093,2026-05-23 16:45,2026-06-11 16:45,Electricity,West,Low,Call Centre,Resolved,19.0,3
+SR00094,2026-05-08 17:21,2026-05-16 17:21,Electricity,South,Low,Walk-in,Resolved,8.0,4
+SR00095,2026-01-17 12:23,,Sanitation,East,Low,Web Portal,Open,,
+SR00096,2026-01-12 17:58,2026-01-16 20:22,Water,CBD,Medium,Walk-in,Resolved,4.1,4
+SR00097,2026-03-25 15:56,2026-03-29 06:20,Waste,West,Medium,Call Centre,Resolved,3.6,5
+SR00098,2026-03-27 09:06,2026-04-07 06:42,Electricity,North,Medium,Call Centre,Resolved,10.9,3
+SR00099,2026-01-16 07:53,2026-01-21 10:17,Waste,South,Medium,Call Centre,Resolved,5.1,5
+SR00100,2026-05-05 11:57,2026-05-09 09:33,Waste,North,Low,Walk-in,Resolved,3.9,4
+SR00101,2026-04-02 11:56,2026-04-12 09:32,Water,South,Low,Mobile App,Resolved,9.9,2
+SR00102,2026-05-08 09:41,2026-05-28 04:53,Roads,West,Medium,Call Centre,Resolved,19.8,1
+SR00103,2026-06-19 11:23,2026-06-21 16:11,Electricity,West,High,Web Portal,Resolved,2.2,4
+SR00104,2026-04-07 09:56,2026-04-10 19:32,Electricity,South,High,Mobile App,Resolved,3.4,5
+SR00105,2026-02-14 15:31,2026-02-27 15:31,Water,East,Medium,Call Centre,Resolved,13.0,4
+SR00106,2026-04-27 12:41,2026-05-11 07:53,Electricity,South,Medium,Web Portal,Resolved,13.8,2
+SR00107,2026-06-05 13:03,2026-06-17 15:27,Roads,North,Low,Web Portal,Resolved,12.1,2
+SR00108,2026-05-10 07:33,2026-05-22 14:45,Roads,South,High,Call Centre,Resolved,12.3,2
+SR00109,2026-01-31 16:36,,Electricity,North,Low,Call Centre,Open,,
+SR00110,2026-04-25 15:14,2026-05-08 22:26,Electricity,North,Low,Call Centre,Resolved,13.3,2
+SR00111,2026-03-28 09:36,,Water,East,Medium,Mobile App,Open,,
+SR00112,2026-03-16 14:36,2026-03-18 12:12,Water,East,High,Call Centre,Resolved,1.9,5
+SR00113,2026-01-09 09:14,2026-01-10 04:26,Waste,CBD,Medium,Web Portal,Resolved,0.8,5
+SR00114,2026-03-11 17:28,2026-03-27 22:16,Water,East,Medium,Call Centre,Resolved,16.2,2
+SR00115,2026-03-03 16:56,2026-03-09 21:44,Waste,West,Low,Mobile App,Resolved,6.2,4
+SR00116,2026-02-24 12:08,2026-03-01 12:08,Water,South,Low,Call Centre,Resolved,5.0,3
+SR00117,2026-02-12 12:00,2026-02-18 16:48,Water,CBD,High,Mobile App,Resolved,6.2,3
+SR00118,2026-05-08 09:30,2026-05-15 14:18,Waste,East,High,Web Portal,Resolved,7.2,4
+SR00119,2026-03-01 09:26,2026-03-09 16:38,Electricity,North,Low,Call Centre,Resolved,8.3,2
+SR00120,2026-05-02 11:42,2026-05-30 11:42,Water,East,High,Mobile App,Resolved,28.0,2
+SR00121,2026-04-09 15:28,2026-04-14 20:16,Waste,North,Medium,Call Centre,Resolved,5.2,4
+SR00122,2026-04-17 07:10,,Roads,East,Low,Mobile App,Open,,
+SR00123,2026-02-20 13:57,2026-02-28 01:57,Water,North,Medium,Web Portal,Resolved,7.5,3
+SR00124,2026-01-27 07:38,2026-02-08 00:26,Electricity,South,Low,Mobile App,Resolved,11.7,3
+SR00125,2026-05-10 16:28,2026-06-21 02:04,Roads,South,Medium,Call Centre,Resolved,41.4,2
+SR00126,2026-05-17 14:01,2026-05-20 02:01,Sanitation,East,Low,Walk-in,Resolved,2.5,4
+SR00127,2026-03-03 14:22,2026-03-11 23:58,Sanitation,North,Medium,Walk-in,Resolved,8.4,3
+SR00128,2026-04-15 12:38,2026-04-19 22:14,Electricity,West,Medium,Web Portal,Resolved,4.4,5
+SR00129,2026-06-09 16:19,2026-06-11 23:31,Waste,North,High,Call Centre,Resolved,2.3,4
+SR00130,2026-03-23 07:48,2026-03-30 22:12,Electricity,North,High,Web Portal,Resolved,7.6,4
+SR00131,2026-01-12 11:52,2026-01-20 07:04,Water,North,Low,Call Centre,Resolved,7.8,5
+SR00132,2026-06-12 10:57,2026-06-17 22:57,Roads,CBD,Low,Mobile App,Resolved,5.5,5
+SR00133,2026-01-26 14:35,2026-01-28 16:59,Electricity,South,High,Mobile App,Resolved,2.1,5
+SR00134,2026-05-22 16:26,2026-05-26 11:38,Sanitation,East,Medium,Mobile App,Resolved,3.8,5
+SR00135,2026-04-17 15:09,2026-04-20 07:57,Water,East,Low,Mobile App,Resolved,2.7,5
+SR00136,2026-04-20 11:21,2026-04-29 11:21,Electricity,North,Low,Call Centre,Resolved,9.0,2
+SR00137,2026-02-20 12:00,2026-02-27 12:00,Water,CBD,High,Call Centre,Resolved,7.0,5
+SR00138,2026-04-19 17:28,2026-05-02 07:52,Electricity,North,Medium,Call Centre,Resolved,12.6,2
+SR00139,2026-03-25 12:08,2026-03-31 09:44,Electricity,East,Low,Mobile App,Resolved,5.9,3
+SR00140,2026-04-07 16:52,2026-05-09 19:16,Water,South,Medium,Call Centre,Resolved,32.1,1
+SR00141,2026-06-22 08:48,2026-07-13 11:12,Roads,West,Medium,Mobile App,Resolved,21.1,1
+SR00142,2026-04-01 09:45,2026-04-21 00:09,Roads,East,Medium,Call Centre,Resolved,19.6,3
+SR00143,2026-02-07 12:31,2026-02-16 19:43,Electricity,East,High,Mobile App,Resolved,9.3,4
+SR00144,2026-04-10 13:05,2026-04-24 01:05,Water,East,High,Mobile App,Resolved,13.5,3
+SR00145,2026-06-04 09:58,2026-06-13 09:58,Electricity,East,Low,Web Portal,Resolved,9.0,3
+SR00146,2026-06-18 17:17,2026-06-25 22:05,Water,North,Low,Mobile App,Resolved,7.2,3
+SR00147,2026-03-05 15:35,2026-03-08 05:59,Waste,North,Medium,Web Portal,Resolved,2.6,4
+SR00148,2026-06-21 08:35,2026-06-27 15:47,Electricity,South,High,Mobile App,Resolved,6.3,4
+SR00149,2026-04-04 17:04,2026-05-04 19:28,Electricity,South,Medium,Web Portal,Resolved,30.1,2
+SR00150,2026-03-20 08:45,2026-03-22 06:21,Water,CBD,Medium,Call Centre,Resolved,1.9,5
+SR00151,2026-01-26 17:18,,Sanitation,South,Medium,Walk-in,Open,,
+SR00152,2026-03-21 10:20,2026-04-06 05:32,Water,East,Low,Mobile App,Resolved,15.8,3
+SR00153,2026-05-05 11:04,2026-05-07 13:28,Roads,CBD,High,Web Portal,Resolved,2.1,4
+SR00154,2026-01-31 08:59,2026-02-11 06:35,Roads,CBD,Low,Call Centre,Resolved,10.9,3
+SR00155,2026-04-27 17:40,,Roads,North,Medium,Web Portal,Open,,
+SR00156,2026-05-03 14:53,,Water,North,Low,Walk-in,Open,,
+SR00157,2026-05-08 12:39,2026-05-16 00:39,Electricity,West,Medium,Web Portal,Resolved,7.5,5
+SR00158,2026-03-13 13:08,2026-03-19 05:56,Electricity,CBD,High,Mobile App,Resolved,5.7,3
+SR00159,2026-05-12 07:04,2026-05-13 11:52,Sanitation,North,Medium,Mobile App,Resolved,1.2,5
+SR00160,2026-02-16 09:45,2026-02-20 02:33,Waste,North,Low,Web Portal,Resolved,3.7,4
+SR00161,2026-05-12 09:11,2026-05-24 23:35,Sanitation,South,Medium,Mobile App,Resolved,12.6,2
+SR00162,2026-03-05 12:42,2026-03-21 03:06,Water,CBD,Medium,Web Portal,Resolved,15.6,2
+SR00163,2026-02-19 14:25,2026-03-06 19:13,Water,South,Low,Call Centre,Resolved,15.2,2
+SR00164,2026-01-19 16:19,2026-01-22 18:43,Waste,North,Low,Walk-in,Resolved,3.1,4
+SR00165,2026-04-28 10:26,2026-05-08 08:02,Roads,North,Low,Mobile App,Resolved,9.9,2
+SR00166,2026-04-26 10:04,,Electricity,East,Medium,Call Centre,Open,,
+SR00167,2026-05-22 07:39,2026-05-26 02:51,Roads,North,Medium,Web Portal,Resolved,3.8,4
+SR00168,2026-04-17 11:10,2026-04-26 01:34,Roads,East,Medium,Mobile App,Resolved,8.6,4
+SR00169,2026-06-02 11:41,2026-06-07 21:17,Sanitation,South,Low,Mobile App,Resolved,5.4,4
+SR00170,2026-05-29 17:47,2026-07-28 00:59,Water,South,Medium,Web Portal,Resolved,59.3,1
+SR00171,2026-04-28 17:53,2026-05-10 15:29,Electricity,West,Low,Call Centre,Resolved,11.9,3
+SR00172,2026-01-11 13:18,2026-02-05 03:42,Roads,North,High,Call Centre,Resolved,24.6,2
+SR00173,2026-05-06 08:50,2026-05-14 01:38,Roads,West,High,Web Portal,Resolved,7.7,3
+SR00174,2026-06-19 07:45,2026-06-25 07:45,Sanitation,West,Medium,Web Portal,Resolved,6.0,3
+SR00175,2026-03-27 17:36,2026-03-30 17:36,Waste,East,Medium,Call Centre,Resolved,3.0,5
+SR00176,2026-06-16 07:36,2026-06-18 00:24,Electricity,CBD,High,Walk-in,Resolved,1.7,4
+SR00177,2026-05-20 07:42,2026-05-24 19:42,Water,East,Low,Call Centre,Resolved,4.5,4
+SR00178,2026-05-29 17:32,2026-06-05 17:32,Water,East,High,Walk-in,Resolved,7.0,4
+SR00179,2026-03-10 16:28,2026-03-29 06:52,Roads,East,Low,Walk-in,Resolved,18.6,3
+SR00180,2026-03-01 17:46,2026-03-02 20:10,Waste,North,Medium,Call Centre,Resolved,1.1,5
+SR00181,2026-03-16 07:50,2026-03-19 05:26,Water,West,Low,Call Centre,Resolved,2.9,5
+SR00182,2026-02-12 11:02,2026-02-24 11:02,Water,West,Medium,Web Portal,Resolved,12.0,4
+SR00183,2026-03-04 16:16,2026-03-07 23:28,Water,CBD,High,Mobile App,Resolved,3.3,5
+SR00184,2026-01-17 09:10,2026-01-20 21:10,Electricity,North,Low,Call Centre,Resolved,3.5,5
+SR00185,2026-03-20 08:09,2026-04-09 20:09,Water,CBD,High,Walk-in,Resolved,20.5,2
+SR00186,2026-02-18 16:16,2026-02-21 18:40,Waste,West,Medium,Mobile App,Resolved,3.1,5
+SR00187,2026-06-20 15:05,2026-06-25 07:53,Waste,West,Medium,Mobile App,Resolved,4.7,5
+SR00188,2026-03-10 07:10,,Waste,West,Medium,Web Portal,Open,,
+SR00189,2026-01-06 10:55,2026-01-14 03:43,Sanitation,East,Low,Call Centre,Resolved,7.7,3
+SR00190,2026-06-20 07:19,2026-06-24 14:31,Sanitation,East,Low,Mobile App,Resolved,4.3,3
+SR00191,2026-05-01 15:18,2026-05-05 05:42,Sanitation,East,Medium,Call Centre,Resolved,3.6,5
+SR00192,2026-03-30 09:31,2026-04-17 21:31,Roads,South,Low,Web Portal,Resolved,18.5,1
+SR00193,2026-02-16 08:41,2026-02-19 11:05,Waste,West,Medium,Call Centre,Resolved,3.1,5
+SR00194,2026-01-31 07:28,2026-02-16 12:16,Roads,East,High,Call Centre,Resolved,16.2,3
+SR00195,2026-06-02 11:34,2026-06-03 16:22,Waste,North,High,Mobile App,Resolved,1.2,4
+SR00196,2026-02-06 09:09,2026-02-28 13:57,Roads,South,High,Web Portal,Resolved,22.2,1
+SR00197,2026-02-10 13:39,2026-02-11 06:27,Waste,CBD,High,Mobile App,Resolved,0.7,5
+SR00198,2026-03-01 13:23,2026-03-04 20:35,Sanitation,East,Low,Call Centre,Resolved,3.3,5
+SR00199,2026-03-01 08:20,2026-03-11 05:56,Water,East,High,Web Portal,Resolved,9.9,3
+SR00200,2026-03-01 12:50,2026-03-04 10:26,Electricity,South,Low,Web Portal,Resolved,2.9,5
+SR00201,2026-06-09 09:32,2026-06-14 19:08,Water,West,High,Mobile App,Resolved,5.4,5
+SR00202,2026-01-26 16:20,2026-02-06 23:32,Roads,East,High,Web Portal,Resolved,11.3,2
+SR00203,2026-04-24 16:33,2026-04-30 21:21,Roads,North,Medium,Call Centre,Resolved,6.2,4
+SR00204,2026-06-09 12:56,2026-06-11 00:56,Sanitation,CBD,Medium,Call Centre,Resolved,1.5,5
+SR00205,2026-05-01 13:29,2026-05-12 08:41,Roads,CBD,Low,Walk-in,Resolved,10.8,4
+SR00206,2026-06-20 14:34,2026-06-23 09:46,Waste,North,Medium,Call Centre,Resolved,2.8,5
+SR00207,2026-02-05 16:19,2026-02-23 13:55,Water,North,Low,Call Centre,Resolved,17.9,1
+SR00208,2026-01-21 16:41,2026-03-08 02:17,Water,South,Low,Web Portal,Resolved,45.4,1
+SR00209,2026-03-14 12:50,2026-03-28 03:14,Water,West,Low,Call Centre,Resolved,13.6,3
+SR00210,2026-02-22 17:06,2026-02-25 09:54,Waste,North,High,Call Centre,Resolved,2.7,4
+SR00211,2026-04-14 14:06,,Electricity,West,High,Call Centre,Open,,
+SR00212,2026-02-23 15:36,2026-02-24 06:00,Sanitation,East,Low,Call Centre,Resolved,0.6,4
+SR00213,2026-04-29 14:17,2026-05-03 16:41,Waste,West,Low,Call Centre,Resolved,4.1,5
+SR00214,2026-01-10 16:07,2026-01-16 11:19,Roads,South,Low,Web Portal,Resolved,5.8,5
+SR00215,2026-03-29 16:03,,Water,CBD,Low,Call Centre,Open,,
+SR00216,2026-05-07 07:07,,Sanitation,East,Low,Mobile App,Open,,
+SR00217,2026-02-13 10:36,2026-02-19 15:24,Water,North,Medium,Mobile App,Resolved,6.2,3
+SR00218,2026-03-07 15:04,2026-03-09 05:28,Water,CBD,Medium,Mobile App,Resolved,1.6,5
+SR00219,2026-01-22 09:01,2026-01-26 23:25,Waste,East,Medium,Web Portal,Resolved,4.6,3
+SR00220,2026-02-19 13:40,2026-03-03 20:52,Water,East,Low,Mobile App,Resolved,12.3,2
+SR00221,2026-03-16 10:26,2026-03-23 20:02,Water,North,Medium,Mobile App,Resolved,7.4,5
+SR00222,2026-04-11 16:09,2026-04-13 08:57,Sanitation,North,Low,Mobile App,Resolved,1.7,4
+SR00223,2026-06-11 11:58,2026-07-02 07:10,Roads,West,Medium,Walk-in,Resolved,20.8,1
+SR00224,2026-02-27 15:27,2026-03-01 01:03,Roads,North,Medium,Call Centre,Resolved,1.4,4
+SR00225,2026-01-06 07:09,2026-01-20 09:33,Roads,East,High,Call Centre,Resolved,14.1,3
+SR00226,2026-04-17 13:09,2026-04-20 08:21,Waste,CBD,Low,Walk-in,Resolved,2.8,5
+SR00227,2026-06-17 10:04,2026-06-23 12:28,Roads,West,Medium,Web Portal,Resolved,6.1,5
+SR00228,2026-04-11 12:06,2026-04-18 07:18,Roads,CBD,Low,Mobile App,Resolved,6.8,4
+SR00229,2026-03-14 13:24,2026-03-16 08:36,Water,South,High,Web Portal,Resolved,1.8,5
+SR00230,2026-03-08 09:23,2026-03-30 11:47,Water,CBD,Medium,Mobile App,Resolved,22.1,2
+SR00231,2026-02-21 09:14,2026-02-22 23:38,Sanitation,South,Medium,Walk-in,Resolved,1.6,4
+SR00232,2026-01-26 08:17,2026-01-31 03:29,Roads,West,High,Web Portal,Resolved,4.8,3
+SR00233,2026-04-10 07:26,2026-04-25 19:26,Water,CBD,Medium,Call Centre,Resolved,15.5,1
+SR00234,2026-04-28 14:28,2026-05-06 02:28,Water,North,Low,Walk-in,Resolved,7.5,5
+SR00235,2026-04-24 13:57,2026-04-28 06:45,Waste,East,Low,Mobile App,Resolved,3.7,5
+SR00236,2026-05-30 10:03,2026-06-02 02:51,Waste,East,High,Call Centre,Resolved,2.7,5
+SR00237,2026-06-05 07:23,2026-06-10 02:35,Roads,North,Low,Mobile App,Resolved,4.8,5
+SR00238,2026-02-15 14:01,2026-02-18 18:49,Sanitation,East,Low,Mobile App,Resolved,3.2,5
+SR00239,2026-05-22 13:23,2026-06-16 22:59,Roads,South,High,Mobile App,Resolved,25.4,1
+SR00240,2026-01-06 11:33,2026-02-03 21:09,Water,West,Low,Web Portal,Resolved,28.4,2
+SR00241,2026-04-23 11:06,,Electricity,North,Low,Mobile App,Open,,
+SR00242,2026-02-06 12:14,2026-02-11 07:26,Sanitation,East,Low,Mobile App,Resolved,4.8,3
+SR00243,2026-01-22 11:13,2026-01-25 13:37,Electricity,East,Low,Walk-in,Resolved,3.1,5
+SR00244,2026-03-14 13:09,2026-03-17 01:09,Roads,East,Medium,Mobile App,Resolved,2.5,4
+SR00245,2026-06-20 08:59,2026-06-24 06:35,Waste,North,Medium,Web Portal,Resolved,3.9,5
+SR00246,2026-03-08 09:42,,Electricity,East,Low,Walk-in,Open,,
+SR00247,2026-01-30 13:31,2026-02-02 03:55,Waste,East,Low,Web Portal,Resolved,2.6,4
+SR00248,2026-05-27 11:14,2026-05-30 13:38,Roads,South,High,Walk-in,Resolved,3.1,5
+SR00249,2026-03-11 08:46,2026-03-12 01:34,Water,CBD,High,Walk-in,Resolved,0.7,5
+SR00250,2026-01-30 14:22,2026-02-07 07:10,Electricity,West,Medium,Call Centre,Resolved,7.7,5
+SR00251,2026-04-11 11:37,2026-04-14 09:13,Electricity,East,Low,Mobile App,Resolved,2.9,5
+SR00252,2026-05-15 13:32,2026-06-05 01:32,Electricity,North,Medium,Web Portal,Resolved,20.5,3
+SR00253,2026-05-01 12:55,2026-05-12 17:43,Sanitation,East,Medium,Web Portal,Resolved,11.2,3
+SR00254,2026-01-22 17:14,,Sanitation,North,Medium,Web Portal,Open,,
+SR00255,2026-06-21 13:51,2026-06-29 23:27,Sanitation,South,High,Mobile App,Resolved,8.4,2
+SR00256,2026-01-11 08:07,2026-01-14 12:55,Electricity,West,Medium,Mobile App,Resolved,3.2,4
+SR00257,2026-03-23 07:46,2026-03-30 10:10,Waste,South,Medium,Walk-in,Resolved,7.1,4
+SR00258,2026-06-06 10:16,2026-07-25 15:04,Water,North,Low,Mobile App,Resolved,49.2,1
+SR00259,2026-04-19 16:03,2026-05-01 11:15,Roads,North,Medium,Walk-in,Resolved,11.8,2
+SR00260,2026-04-03 09:29,,Sanitation,CBD,Medium,Call Centre,Open,,
+SR00261,2026-03-15 11:04,2026-03-15 20:40,Waste,North,Medium,Web Portal,Resolved,0.4,4
+SR00262,2026-06-07 11:54,2026-06-17 23:54,Water,North,Low,Mobile App,Resolved,10.5,4
+SR00263,2026-02-14 16:51,2026-02-16 12:03,Waste,North,High,Web Portal,Resolved,1.8,4
+SR00264,2026-05-17 10:40,2026-05-20 13:04,Waste,CBD,Medium,Web Portal,Resolved,3.1,5
+SR00265,2026-03-11 17:48,,Waste,South,Medium,Walk-in,Open,,
+SR00266,2026-03-17 13:55,2026-03-21 11:31,Waste,North,Medium,Mobile App,Resolved,3.9,4
+SR00267,2026-01-14 09:13,2026-01-26 23:37,Water,East,Medium,Web Portal,Resolved,12.6,2
+SR00268,2026-01-09 13:41,,Sanitation,West,Low,Web Portal,Open,,
+SR00269,2026-02-08 15:14,2026-02-09 20:02,Sanitation,North,Medium,Call Centre,Resolved,1.2,5
+SR00270,2026-06-04 13:28,2026-07-05 03:52,Water,South,Medium,Mobile App,Resolved,30.6,2
+SR00271,2026-03-31 09:16,2026-04-06 02:04,Roads,South,Medium,Web Portal,Resolved,5.7,4
+SR00272,2026-03-02 13:28,2026-03-05 23:04,Sanitation,CBD,High,Call Centre,Resolved,3.4,4
+SR00273,2026-04-23 15:02,2026-04-29 10:14,Electricity,CBD,Medium,Web Portal,Resolved,5.8,3
+SR00274,2026-05-26 10:06,2026-06-03 00:30,Water,West,Medium,Call Centre,Resolved,7.6,3
+SR00275,2026-02-27 15:52,2026-03-01 11:04,Electricity,South,Low,Mobile App,Resolved,1.8,5
+SR00276,2026-05-14 07:06,2026-05-23 11:54,Roads,West,High,Mobile App,Resolved,9.2,2
+SR00277,2026-03-06 07:11,2026-03-11 02:23,Waste,CBD,Low,Mobile App,Resolved,4.8,5
+SR00278,2026-02-18 14:36,2026-02-21 09:48,Roads,South,Medium,Call Centre,Resolved,2.8,4
+SR00279,2026-05-23 07:03,2026-08-02 09:27,Water,West,Medium,Walk-in,Resolved,71.1,3
+SR00280,2026-05-08 16:38,,Water,West,High,Call Centre,Open,,
+SR00281,2026-05-04 17:13,2026-05-11 02:49,Roads,CBD,High,Web Portal,Resolved,6.4,3
+SR00282,2026-05-11 17:54,2026-06-03 01:06,Electricity,South,Low,Mobile App,Resolved,22.3,2
+SR00283,2026-02-24 07:47,2026-03-02 00:35,Waste,North,High,Web Portal,Resolved,5.7,4
+SR00284,2026-01-28 07:35,2026-02-05 17:11,Electricity,East,Medium,Web Portal,Resolved,8.4,3
+SR00285,2026-03-24 15:30,2026-04-09 20:18,Water,CBD,Low,Web Portal,Resolved,16.2,1
+SR00286,2026-02-06 16:26,2026-02-08 23:38,Sanitation,North,Medium,Web Portal,Resolved,2.3,5
+SR00287,2026-05-28 14:32,2026-06-02 21:44,Sanitation,West,Low,Walk-in,Resolved,5.3,3
+SR00288,2026-02-21 07:03,,Electricity,South,Medium,Call Centre,Open,,
+SR00289,2026-03-20 12:22,2026-04-08 02:46,Roads,South,Low,Walk-in,Resolved,18.6,1
+SR00290,2026-05-30 17:05,2026-06-19 07:29,Water,West,Medium,Call Centre,Resolved,19.6,1
+SR00291,2026-05-01 15:24,2026-05-05 20:12,Waste,North,Low,Mobile App,Resolved,4.2,5
+SR00292,2026-03-13 11:24,2026-03-17 18:36,Sanitation,CBD,Medium,Mobile App,Resolved,4.3,4
+SR00293,2026-05-16 16:05,2026-05-17 13:41,Water,South,High,Mobile App,Resolved,0.9,5
+SR00294,2026-01-29 15:07,2026-02-02 17:31,Roads,CBD,High,Web Portal,Resolved,4.1,4
+SR00295,2026-04-30 07:26,2026-05-03 07:26,Roads,CBD,Low,Mobile App,Resolved,3.0,5
+SR00296,2026-01-12 14:33,2026-01-22 12:09,Water,South,Medium,Call Centre,Resolved,9.9,4
+SR00297,2026-03-14 14:08,2026-04-06 02:08,Water,West,Low,Web Portal,Resolved,22.5,3
+SR00298,2026-04-24 11:25,,Water,South,Medium,Web Portal,Open,,
+SR00299,2026-01-14 16:05,2026-01-22 06:29,Water,East,High,Mobile App,Resolved,7.6,3
+SR00300,2026-02-27 11:43,2026-03-02 21:19,Electricity,North,Low,Call Centre,Resolved,3.4,5
+SR00301,2026-05-26 08:12,2026-06-01 01:00,Roads,South,High,Call Centre,Resolved,5.7,3
+SR00302,2026-03-10 12:07,2026-03-14 07:19,Sanitation,East,Medium,Call Centre,Resolved,3.8,5
+SR00303,2026-06-21 10:49,2026-07-03 22:49,Water,South,Low,Web Portal,Resolved,12.5,3
+SR00304,2026-05-17 16:54,,Water,West,Medium,Web Portal,Open,,
+SR00305,2026-04-30 10:35,2026-05-19 05:47,Roads,South,Low,Mobile App,Resolved,18.8,1
+SR00306,2026-02-05 13:12,2026-02-06 10:48,Electricity,North,High,Web Portal,Resolved,0.9,5
+SR00307,2026-04-18 15:27,2026-04-20 03:27,Electricity,South,Low,Call Centre,Resolved,1.5,4
+SR00308,2026-05-17 10:31,2026-05-22 00:55,Electricity,South,Low,Walk-in,Resolved,4.6,5
+SR00309,2026-02-15 10:03,2026-02-17 02:51,Waste,North,Medium,Call Centre,Resolved,1.7,4
+SR00310,2026-06-14 11:40,2026-07-18 09:16,Water,East,Medium,Web Portal,Resolved,33.9,3
+SR00311,2026-05-16 13:33,2026-05-22 23:09,Electricity,West,Low,Web Portal,Resolved,6.4,5
+SR00312,2026-05-22 08:05,2026-05-31 00:53,Electricity,CBD,Medium,Call Centre,Resolved,8.7,2
+SR00313,2026-05-24 16:02,2026-05-27 18:26,Electricity,South,Low,Walk-in,Resolved,3.1,5
+SR00314,2026-04-07 17:26,2026-04-10 03:02,Roads,East,Medium,Call Centre,Resolved,2.4,5
+SR00315,2026-04-26 11:33,2026-06-04 18:45,Electricity,South,Medium,Mobile App,Resolved,39.3,3
+SR00316,2026-03-04 11:47,2026-03-23 02:11,Water,North,High,Mobile App,Resolved,18.6,2
+SR00317,2026-05-26 09:00,,Water,North,Low,Call Centre,Open,,
+SR00318,2026-06-17 07:31,2026-06-24 02:43,Electricity,South,Medium,Walk-in,Resolved,6.8,5
+SR00319,2026-04-04 13:17,2026-04-12 03:41,Waste,East,High,Mobile App,Resolved,7.6,5
+SR00320,2026-01-28 11:58,2026-02-17 09:34,Water,South,Medium,Web Portal,Resolved,19.9,3
+SR00321,2026-04-07 11:02,2026-04-11 23:02,Water,CBD,Medium,Web Portal,Resolved,4.5,4
+SR00322,2026-06-12 17:03,2026-06-19 09:51,Waste,West,Low,Web Portal,Resolved,6.7,4
+SR00323,2026-05-01 15:05,2026-05-12 17:29,Roads,West,High,Walk-in,Resolved,11.1,2
+SR00324,2026-03-08 15:52,2026-03-09 03:52,Water,CBD,Medium,Call Centre,Resolved,0.5,5
+SR00325,2026-04-06 10:41,,Water,North,High,Walk-in,Open,,
+SR00326,2026-03-04 15:00,2026-03-09 19:48,Waste,North,Medium,Web Portal,Resolved,5.2,3
+SR00327,2026-06-23 09:07,2026-06-25 23:31,Waste,West,High,Mobile App,Resolved,2.6,4
+SR00328,2026-01-25 17:56,2026-02-02 22:44,Water,West,Low,Call Centre,Resolved,8.2,2
+SR00329,2026-03-28 15:12,2026-03-29 17:36,Waste,CBD,Medium,Call Centre,Resolved,1.1,5
+SR00330,2026-06-13 11:35,2026-06-13 23:35,Waste,North,Low,Web Portal,Resolved,0.5,5
+SR00331,2026-03-08 08:53,2026-03-17 23:17,Roads,North,Low,Mobile App,Resolved,9.6,2
+SR00332,2026-05-16 12:59,2026-05-21 10:35,Electricity,South,Low,Call Centre,Resolved,4.9,4
+SR00333,2026-01-17 11:42,,Water,West,Medium,Call Centre,Open,,
+SR00334,2026-03-05 12:10,2026-03-07 02:34,Sanitation,CBD,Medium,Mobile App,Resolved,1.6,5
+SR00335,2026-05-24 09:02,2026-07-01 11:26,Water,North,High,Web Portal,Resolved,38.1,2
+SR00336,2026-02-04 16:30,2026-02-08 02:06,Sanitation,South,Low,Walk-in,Resolved,3.4,5
+SR00337,2026-06-06 12:00,2026-07-13 14:24,Water,South,Low,Mobile App,Resolved,37.1,2
+SR00338,2026-05-22 12:06,2026-05-29 19:18,Waste,East,Medium,Call Centre,Resolved,7.3,3
+SR00339,2026-01-26 07:31,2026-02-02 09:55,Electricity,South,High,Mobile App,Resolved,7.1,3
+SR00340,2026-05-01 07:34,2026-05-04 17:10,Waste,CBD,Medium,Web Portal,Resolved,3.4,5
+SR00341,2026-06-05 16:11,2026-06-07 08:59,Sanitation,North,Medium,Web Portal,Resolved,1.7,5
+SR00342,2026-02-20 14:45,2026-02-24 07:33,Sanitation,West,Medium,Web Portal,Resolved,3.7,5
+SR00343,2026-04-27 13:19,,Roads,East,Medium,Web Portal,Open,,
+SR00344,2026-06-12 09:39,2026-06-14 12:03,Electricity,CBD,Low,Web Portal,Resolved,2.1,5
+SR00345,2026-06-10 14:02,2026-06-12 09:14,Waste,West,Low,Mobile App,Resolved,1.8,4
+SR00346,2026-02-08 09:56,,Water,North,Medium,Mobile App,Open,,
+SR00347,2026-03-02 09:35,2026-03-26 14:23,Water,East,High,Mobile App,Resolved,24.2,2
+SR00348,2026-03-22 11:08,2026-03-29 23:08,Water,CBD,Medium,Call Centre,Resolved,7.5,4
+SR00349,2026-01-24 10:34,2026-01-26 15:22,Sanitation,West,Low,Web Portal,Resolved,2.2,4
+SR00350,2026-01-10 14:15,2026-01-17 04:39,Electricity,North,Medium,Web Portal,Resolved,6.6,4
+SR00351,2026-05-05 14:29,2026-05-07 19:17,Sanitation,South,Medium,Call Centre,Resolved,2.2,5
+SR00352,2026-04-24 10:11,2026-04-26 22:11,Waste,East,Medium,Mobile App,Resolved,2.5,5
+SR00353,2026-01-07 13:31,2026-01-11 06:19,Waste,South,Medium,Mobile App,Resolved,3.7,5
+SR00354,2026-01-25 13:13,2026-01-31 01:13,Electricity,North,High,Web Portal,Resolved,5.5,5
+SR00355,2026-03-22 12:57,2026-03-23 22:33,Waste,CBD,Low,Mobile App,Resolved,1.4,4
+SR00356,2026-04-21 09:18,2026-04-25 18:54,Waste,North,Medium,Web Portal,Resolved,4.4,5
+SR00357,2026-05-24 08:43,2026-06-14 23:07,Water,CBD,Medium,Walk-in,Resolved,21.6,1
+SR00358,2026-03-16 16:24,2026-03-20 06:48,Electricity,North,High,Call Centre,Resolved,3.6,4
+SR00359,2026-06-12 08:14,2026-06-15 17:50,Sanitation,CBD,Medium,Mobile App,Resolved,3.4,5
+SR00360,2026-03-21 17:53,2026-03-28 22:41,Roads,South,Medium,Web Portal,Resolved,7.2,4
+SR00361,2026-03-15 16:40,2026-03-19 07:04,Sanitation,North,High,Walk-in,Resolved,3.6,4
+SR00362,2026-06-21 17:49,2026-07-12 05:49,Electricity,South,Medium,Web Portal,Resolved,20.5,2
+SR00363,2026-04-17 11:34,2026-04-19 13:58,Sanitation,North,High,Call Centre,Resolved,2.1,5
+SR00364,2026-05-25 07:22,2026-05-28 00:10,Electricity,CBD,Low,Walk-in,Resolved,2.7,4
+SR00365,2026-04-17 15:14,2026-04-25 05:38,Roads,North,Low,Call Centre,Resolved,7.6,5
+SR00366,2026-02-23 11:45,2026-02-27 11:45,Electricity,East,High,Walk-in,Resolved,4.0,3
+SR00367,2026-03-11 08:58,2026-03-19 06:34,Electricity,North,Low,Mobile App,Resolved,7.9,5
+SR00368,2026-03-10 14:23,2026-03-22 16:47,Water,South,High,Call Centre,Resolved,12.1,3
+SR00369,2026-05-09 15:10,2026-05-22 10:22,Water,East,Medium,Mobile App,Resolved,12.8,3
+SR00370,2026-01-28 10:05,2026-02-01 19:41,Waste,South,Medium,Web Portal,Resolved,4.4,3
+SR00371,2026-06-04 17:07,2026-06-09 07:31,Waste,West,Low,Mobile App,Resolved,4.6,4
+SR00372,2026-02-24 17:35,,Waste,West,Medium,Mobile App,Open,,
+SR00373,2026-03-19 08:23,2026-03-26 05:59,Water,North,Low,Call Centre,Resolved,6.9,3
+SR00374,2026-03-05 12:39,2026-03-09 03:03,Water,East,High,Call Centre,Resolved,3.6,4
+SR00375,2026-03-22 09:28,2026-03-25 14:16,Sanitation,North,High,Web Portal,Resolved,3.2,5
+SR00376,2026-04-17 11:51,2026-04-24 14:15,Water,CBD,Low,Web Portal,Resolved,7.1,5
+SR00377,2026-05-05 16:16,2026-05-10 21:04,Sanitation,South,Low,Mobile App,Resolved,5.2,5
+SR00378,2026-03-28 08:56,2026-04-07 08:56,Electricity,East,High,Mobile App,Resolved,10.0,3
+SR00379,2026-03-20 16:05,2026-03-24 20:53,Electricity,West,Medium,Walk-in,Resolved,4.2,4
+SR00380,2026-05-07 11:53,2026-06-06 23:53,Water,CBD,Low,Walk-in,Resolved,30.5,3
+SR00381,2026-03-31 08:47,2026-04-02 20:47,Waste,East,Medium,Walk-in,Resolved,2.5,5
+SR00382,2026-05-05 08:08,2026-05-17 03:20,Sanitation,South,Low,Call Centre,Resolved,11.8,4
+SR00383,2026-03-14 14:46,2026-03-19 00:22,Roads,CBD,Medium,Call Centre,Resolved,4.4,5
+SR00384,2026-01-11 10:56,2026-01-15 20:32,Waste,West,Medium,Web Portal,Resolved,4.4,5
+SR00385,2026-05-28 07:43,2026-05-31 10:07,Sanitation,East,High,Mobile App,Resolved,3.1,5
+SR00386,2026-05-27 07:22,2026-05-28 07:22,Electricity,CBD,High,Web Portal,Resolved,1.0,5
+SR00387,2026-03-12 15:45,2026-04-02 08:33,Water,West,Low,Call Centre,Resolved,20.7,2
+SR00388,2026-04-12 12:07,2026-04-14 16:55,Water,CBD,Medium,Web Portal,Resolved,2.2,5
+SR00389,2026-04-30 12:59,2026-05-06 10:35,Water,CBD,Medium,Web Portal,Resolved,5.9,3
+SR00390,2026-01-18 14:30,2026-02-05 12:06,Water,North,High,Mobile App,Resolved,17.9,1
+SR00391,2026-04-08 17:50,2026-06-03 17:50,Roads,West,Low,Mobile App,Resolved,56.0,3
+SR00392,2026-03-14 11:20,2026-03-18 23:20,Water,CBD,Medium,Call Centre,Resolved,4.5,4
+SR00393,2026-01-07 10:16,,Roads,West,High,Web Portal,Open,,
+SR00394,2026-04-06 13:58,2026-04-20 06:46,Roads,East,Medium,Web Portal,Resolved,13.7,2
+SR00395,2026-06-16 14:36,2026-06-20 12:12,Sanitation,CBD,Low,Walk-in,Resolved,3.9,4
+SR00396,2026-02-25 10:29,2026-03-06 05:41,Waste,South,Medium,Walk-in,Resolved,8.8,2
+SR00397,2026-06-23 15:24,2026-07-03 22:36,Water,South,Low,Call Centre,Resolved,10.3,2
+SR00398,2026-04-13 09:05,,Waste,South,High,Mobile App,Open,,
+SR00399,2026-04-09 10:20,2026-05-03 17:32,Water,East,Low,Web Portal,Resolved,24.3,2
+SR00400,2026-05-29 08:36,2026-06-09 15:48,Roads,East,Low,Walk-in,Resolved,11.3,2
